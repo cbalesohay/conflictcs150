@@ -2,7 +2,7 @@
 using namespace std;
 
 void say(string word);
-int add(int a, int b);
+// int add(int a, int b);
 int main(){
     int hello = 0;
     cout << hello << endl;
