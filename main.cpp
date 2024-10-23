@@ -12,6 +12,7 @@ int main(){
 
 void say(string word){
     cout << word << endl;
+    cout << "hello" << endl;
 }
 
 int add(int a, int b){
