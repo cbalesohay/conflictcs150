@@ -5,7 +5,7 @@ int main(){
     int hello = 0;
     cout << hello << endl;
     cout << "Hello world" << endl;
-    cout "5 + 7 = " << add(5, 7) << endl;
+    cout << "5 + 7 = " << add(5, 7) << endl;
     return 0;
 }
 
